@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 12" width="16" height="12">
+	<defs>
+		<image width="16" height="12" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAMCAMAAABcOc2zAAAAAXNSR0IB2cksfwAAAHVQTFRF////AAhRAAhRAAhRAAhRAAhRAAhRAAhRAAhRAAhRAAhRAAhRAAhRAAhRAAhRAAhRAAhRAAhRAAhRAAhRAAhRAAhRAAhRAAhRAAhRAAhRAAhRAAhRAAhRAAhRAAhRAAhRAAhRAAhRAAhRAAhRAAhRAAhRAAhRveFD7AAAACd0Uk5TAEuYUk3fvkFI3sthENzMYhJK2HAlFArV/u7PzbnU687HtEXa0Ea/Q5JczQAAAFlJREFUeJxVjjkSgCAQBFcFBQHxBsX7+v8TNcKls55gqgE+ojgBDKFphp3xXEjsqtAl8krVTdt5ejB2MKPHTTDbZd1+djjOS+ALgFs5HS6MF1oGC6FPEBamv7bWBsM9gV/SAAAAAElFTkSuQmCC"/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+	</style>
+	<g id="Товары">
+		<g id="Кросы">
+			<g id="Формы">
+				<g id="Назад">
+					<use id="Слой 16 копия" href="#img1" x="0" y="0" />
+				</g>
+			</g>
+		</g>
+	</g>
+</svg>
